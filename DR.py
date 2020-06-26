@@ -9,10 +9,8 @@ import pandas as pd
 
 aaa = []
 
-<<<<<<< HEAD
 bbb = [1,2,3,4]
 
 ccc = []
-=======
-bbb = [1,2,3,4]
->>>>>>> parent of d63624b... 444
+
+
