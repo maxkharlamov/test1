@@ -8,3 +8,5 @@ Created on Mon May 11 13:56:47 2020
 import pandas as pd
 
 aaa = []
+
+bbb = [1,2,3,4]
