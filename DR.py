@@ -9,4 +9,6 @@ import pandas as pd
 
 aaa = []
 
-bbb = [1,2,3,4]
+bbb = [1,2,3,4]bbb = [1,2,3,4]
+
+ccc = []
